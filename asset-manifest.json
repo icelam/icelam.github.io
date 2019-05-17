@@ -1,0 +1,26 @@
+{
+  "files": {
+    "Home.js": "/static/js/Home.8d410cec.chunk.js",
+    "Home.js.map": "/static/js/Home.8d410cec.chunk.js.map",
+    "NotFound.js": "/static/js/NotFound.cb6d8aa6.chunk.js",
+    "NotFound.js.map": "/static/js/NotFound.cb6d8aa6.chunk.js.map",
+    "main.js": "/static/js/main.35422ee3.chunk.js",
+    "main.js.map": "/static/js/main.35422ee3.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b32c19cf.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b32c19cf.js.map",
+    "static/js/4.1d106169.chunk.js": "/static/js/4.1d106169.chunk.js",
+    "static/js/4.1d106169.chunk.js.map": "/static/js/4.1d106169.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.098cc84110b3aa137b0b3f1c680392e8.js": "/precache-manifest.098cc84110b3aa137b0b3f1c680392e8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
+    "static/media/Zpix.ttf": "/static/media/Zpix.783bb457.ttf",
+    "static/media/anyone-bmi-calculator.png": "/static/media/anyone-bmi-calculator.00691722.png",
+    "static/media/apple-advertisement.jpg": "/static/media/apple-advertisement.dc79b660.jpg",
+    "static/media/chinese-lorem-ipsum.png": "/static/media/chinese-lorem-ipsum.19e198fc.png",
+    "static/media/hkid-generator.png": "/static/media/hkid-generator.f400f32b.png",
+    "static/media/nike-poster-generator.jpg": "/static/media/nike-poster-generator.d5b6b17d.jpg",
+    "static/media/whatsapp-link-builder.png": "/static/media/whatsapp-link-builder.b12dbf65.png",
+    "static/media/xmas.png": "/static/media/xmas.7c4d5cfe.png"
+  }
+}
