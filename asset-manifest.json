@@ -1,12 +1,12 @@
 {
   "files": {
-    "Home.js": "/static/js/Home.db6c55db.chunk.js",
+    "Home.js": "/static/js/Home.c36357a5.chunk.js",
     "NotFound.js": "/static/js/NotFound.cb6d8aa6.chunk.js",
     "main.js": "/static/js/main.5c0d1fcd.chunk.js",
-    "runtime~main.js": "/static/js/runtime~main.8eda9ddc.js",
+    "runtime~main.js": "/static/js/runtime~main.3eeb52d0.js",
     "static/js/4.1d106169.chunk.js": "/static/js/4.1d106169.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.018aca75aa3e7ecd88485606013810af.js": "/precache-manifest.018aca75aa3e7ecd88485606013810af.js",
+    "precache-manifest.a9203af12fa847a1241dc45573acbb89.js": "/precache-manifest.a9203af12fa847a1241dc45573acbb89.js",
     "service-worker.js": "/service-worker.js",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
     "static/media/Zpix.ttf": "/static/media/Zpix.783bb457.ttf",
