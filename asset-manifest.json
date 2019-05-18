@@ -1,13 +1,13 @@
 {
   "files": {
-    "Home.js": "/static/js/Home.48b669a4.chunk.js",
+    "Home.js": "/static/js/Home.5717d7db.chunk.js",
     "NotFound.js": "/static/js/NotFound.0c15e77b.chunk.js",
-    "ProjectDetails.js": "/static/js/ProjectDetails.e334906e.chunk.js",
+    "ProjectDetails.js": "/static/js/ProjectDetails.0ac2f948.chunk.js",
     "main.js": "/static/js/main.13ddec7f.chunk.js",
-    "runtime~main.js": "/static/js/runtime~main.c717649b.js",
+    "runtime~main.js": "/static/js/runtime~main.60ca916e.js",
     "static/js/5.84ec1331.chunk.js": "/static/js/5.84ec1331.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.a5eb95e9a10c7bf945609d3399adc793.js": "/precache-manifest.a5eb95e9a10c7bf945609d3399adc793.js",
+    "precache-manifest.0b1991a61d3faae1781a35c3932b1170.js": "/precache-manifest.0b1991a61d3faae1781a35c3932b1170.js",
     "service-worker.js": "/service-worker.js",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
     "static/media/Zpix.ttf": "/static/media/Zpix.783bb457.ttf",
