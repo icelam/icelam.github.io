@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "648399dbc8d4dcb375601064ceb0eb5e",
+    "revision": "72b4f1c282d8271d1c986875a329b188",
     "url": "/index.html"
   },
   {
@@ -12,24 +12,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/About.f629d1a8.chunk.js"
   },
   {
-    "revision": "13cd49670fdef3c31921",
-    "url": "/static/js/Home.f5279512.chunk.js"
+    "revision": "c1c944ec92b33437e9e3",
+    "url": "/static/js/Home.d694d8ec.chunk.js"
   },
   {
     "revision": "8b08aed5af1b47144da1",
     "url": "/static/js/NotFound.b970bc74.chunk.js"
   },
   {
-    "revision": "2f9dc8a40f9b63c093d7",
-    "url": "/static/js/ProjectDetails.8e4a12fc.chunk.js"
+    "revision": "08ad90cba56a7b476937",
+    "url": "/static/js/ProjectDetails.7ad7ba5e.chunk.js"
   },
   {
     "revision": "d3eac6909f1ad3ac2677",
     "url": "/static/js/main.d2c84dbc.chunk.js"
   },
   {
-    "revision": "dc90604d19edf464857e",
-    "url": "/static/js/runtime~main.e4dad934.js"
+    "revision": "4e8407b3f99448737f5f",
+    "url": "/static/js/runtime~main.784c57e6.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bullet-icon.795128a2.svg"
   },
   {
-    "revision": "7f5120a7e003a560140f6bf329771dc0",
-    "url": "/static/media/chatbot-home.7f5120a7.png"
+    "revision": "929032e3164b93c85ee1e38cf133a8df",
+    "url": "/static/media/chatbot-home.929032e3.png"
   },
   {
     "revision": "2b22fbc2eccbc35120bd535af5a5a94d",
