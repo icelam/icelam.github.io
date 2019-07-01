@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7f2ee52578ac67e978e3be64f80c312",
+    "revision": "793867c91400a52eb33f8545ad6082aa",
     "url": "/index.html"
   },
   {
-    "revision": "7e86f7dd0fb8096133f2",
-    "url": "/static/js/0.6575ddfc.chunk.js"
+    "revision": "5935c22b91a9df5d756a",
+    "url": "/static/js/0.7662556b.chunk.js"
   },
   {
     "revision": "410512933615234b79d6",
     "url": "/static/js/7.6d427c2b.chunk.js"
   },
   {
-    "revision": "85fcef763e5921771aa6",
-    "url": "/static/js/About.8cac92f2.chunk.js"
+    "revision": "fa173a9c3d8c256ce57b",
+    "url": "/static/js/About.c7910a1e.chunk.js"
   },
   {
-    "revision": "40283c0c0f20de45fbb3",
-    "url": "/static/js/Home.aad73c5e.chunk.js"
+    "revision": "9516617fa37fe2121151",
+    "url": "/static/js/Home.5c924fdd.chunk.js"
   },
   {
-    "revision": "2eae822fda7f84f07c0d",
-    "url": "/static/js/NotFound.ee6faf5a.chunk.js"
+    "revision": "d0e36eed7236e65c3ab3",
+    "url": "/static/js/NotFound.48547877.chunk.js"
   },
   {
-    "revision": "687d491515f285823a97",
-    "url": "/static/js/ProjectDetails.592191ee.chunk.js"
+    "revision": "2e457638d1cd4ac39514",
+    "url": "/static/js/ProjectDetails.56101a21.chunk.js"
   },
   {
-    "revision": "ac6145f5a777dd6d0f6f",
-    "url": "/static/js/main.2a206231.chunk.js"
+    "revision": "8349dcf7f6529d3bb53d",
+    "url": "/static/js/main.aec9e72b.chunk.js"
   },
   {
-    "revision": "7667e220107a1b5e5ab6",
-    "url": "/static/js/runtime~main.7b19b7dd.js"
+    "revision": "9b9d26f72411bdffc923",
+    "url": "/static/js/runtime~main.d4fcd912.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -70,6 +70,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2b22fbc2eccbc35120bd535af5a5a94d",
     "url": "/static/media/chatbot-thumbnail.2b22fbc2.png"
+  },
+  {
+    "revision": "1524036bd0051d2e67eab3205fb0fa8b",
+    "url": "/static/media/chinese-handwriting-recognition-home.1524036b.png"
+  },
+  {
+    "revision": "43df2e2e7e05a0f472936fd7c2cd7a7e",
+    "url": "/static/media/chinese-handwriting-recognition-thumbnail.43df2e2e.png"
   },
   {
     "revision": "56d789dc1bcefa9528213baba8a8fd64",
