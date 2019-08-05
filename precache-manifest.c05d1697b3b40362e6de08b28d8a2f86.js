@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e90e18dd043b24c1c5dce58a46302444",
+    "revision": "ca03998e359096741f48e8b14fa574a5",
     "url": "/index.html"
   },
   {
-    "revision": "3f4869b79b102dc3b219",
-    "url": "/static/js/0.79d2e173.chunk.js"
+    "revision": "60f29a711c796aeb20c7",
+    "url": "/static/js/0.d2d4bf83.chunk.js"
   },
   {
     "revision": "1fc7f24c4a26465ceb3c",
     "url": "/static/js/7.56637aed.chunk.js"
   },
   {
-    "revision": "9d82ef6dac71cb1ec958",
-    "url": "/static/js/About.bcb181f2.chunk.js"
+    "revision": "15e7de9e3e42a852ee6a",
+    "url": "/static/js/About.7dd0ae0c.chunk.js"
   },
   {
-    "revision": "23b378cbf64bedbbfbb9",
-    "url": "/static/js/Home.863d0175.chunk.js"
+    "revision": "b430b31b374bc2ea6554",
+    "url": "/static/js/Home.eb50ad35.chunk.js"
   },
   {
-    "revision": "35209c53a9dfc546f1a1",
-    "url": "/static/js/NotFound.73adfbef.chunk.js"
+    "revision": "ed7fa2b012616c6fb6dd",
+    "url": "/static/js/NotFound.1923a0c2.chunk.js"
   },
   {
-    "revision": "eae58f97f6e089544b54",
-    "url": "/static/js/ProjectDetails.0fa1e5fd.chunk.js"
+    "revision": "4238e77826f733fef0c5",
+    "url": "/static/js/ProjectDetails.3b469b7f.chunk.js"
   },
   {
-    "revision": "43122785040f68be5b92",
-    "url": "/static/js/main.f693ce68.chunk.js"
+    "revision": "e41cd2cfa21573aed502",
+    "url": "/static/js/main.6cdbd1d9.chunk.js"
   },
   {
-    "revision": "f22d79a001690ef5cf97",
-    "url": "/static/js/runtime~main.347092d6.js"
+    "revision": "71a76e4f9b0cc3994f3e",
+    "url": "/static/js/runtime~main.a40ba619.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -98,6 +98,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2842e1c8a751d275e7f0ded082fa90b3",
     "url": "/static/media/github-icon.2842e1c8.svg"
+  },
+  {
+    "revision": "dbdbb6476d9e704c5f7cfe7465e7694a",
+    "url": "/static/media/hk-top-news-home.dbdbb647.jpg"
+  },
+  {
+    "revision": "0b1568c402840a8e19a7b3e0dd7460e0",
+    "url": "/static/media/hk-top-news-thumbnail.0b1568c4.jpg"
   },
   {
     "revision": "c78decfad88a0567b7dbaa39fbb14475",
