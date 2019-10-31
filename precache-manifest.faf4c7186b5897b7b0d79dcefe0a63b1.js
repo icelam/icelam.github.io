@@ -1,39 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04c3966c330913c978e43fa1fb63bb78",
+    "revision": "1f7346db0cbe25ebc80409ec3c452a6b",
     "url": "/index.html"
   },
   {
-    "revision": "3add2e660174c711a5d4",
-    "url": "/static/js/0.8d40479b.chunk.js"
+    "revision": "ba81afa695f37c2df2a1",
+    "url": "/static/js/0.1234b777.chunk.js"
   },
   {
-    "revision": "1fc7f24c4a26465ceb3c",
-    "url": "/static/js/7.56637aed.chunk.js"
+    "revision": "dcec6449021d040a7665",
+    "url": "/static/js/1.f9ba1656.chunk.js"
   },
   {
-    "revision": "6c98f581f8fb08854d69",
-    "url": "/static/js/About.437ecabb.chunk.js"
+    "revision": "e8722bc56c27cffb7fd0",
+    "url": "/static/js/8.c4f7139e.chunk.js"
   },
   {
-    "revision": "46d4703aefbe00dd89dd",
-    "url": "/static/js/Home.0d859812.chunk.js"
+    "revision": "8e99986a450e07f6efb0",
+    "url": "/static/js/About.359e27e5.chunk.js"
   },
   {
-    "revision": "fbc8099b2f8b04d5a0d2",
-    "url": "/static/js/NotFound.dc3d2dce.chunk.js"
+    "revision": "ac7326cf90c523e3b12c",
+    "url": "/static/js/Home.cacad3db.chunk.js"
   },
   {
-    "revision": "f9194ea12b0aa6ad5a31",
-    "url": "/static/js/ProjectDetails.ba5fecf5.chunk.js"
+    "revision": "1c34d65b9803a572f7f0",
+    "url": "/static/js/NotFound.a5191712.chunk.js"
   },
   {
-    "revision": "653e9a4c62337f1b842b",
-    "url": "/static/js/main.621d20c0.chunk.js"
+    "revision": "58ae1fbb6a0d2a96c4c7",
+    "url": "/static/js/ProjectDetails.2b8bb193.chunk.js"
   },
   {
-    "revision": "c96620d464573127f01d",
-    "url": "/static/js/runtime~main.8a91e929.js"
+    "revision": "b3d6d0cfbe3c604e0644",
+    "url": "/static/js/main.a4b417e9.chunk.js"
+  },
+  {
+    "revision": "1ba3d139813e3d59bcf8",
+    "url": "/static/js/runtime~main.e52c7b29.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -96,6 +100,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/christmas2018-thumbnail.7c4d5cfe.png"
   },
   {
+    "revision": "52fc684e9af77c7523e4d5839368a2ea",
+    "url": "/static/media/code-copier-thumbnail.52fc684e.png"
+  },
+  {
     "revision": "ff267f9b3624fc43eee475560f3d2cf0",
     "url": "/static/media/css3-gundam-home.ff267f9b.png"
   },
@@ -144,12 +152,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/hkid-generator-validator.201cd318.png"
   },
   {
+    "revision": "d80837fe97bec2894747510f2b7ade92",
+    "url": "/static/media/large.d80837fe.png"
+  },
+  {
     "revision": "5a15f89569de95903a52b03aa3bdf227",
     "url": "/static/media/nike-poster-generator-home.5a15f895.png"
   },
   {
     "revision": "0371e9bcd00317c7cebc58b904697dc4",
     "url": "/static/media/nike-poster-generator-thumbnail.0371e9bc.png"
+  },
+  {
+    "revision": "081ba5f83c9e4bb1e52112689584b3d1",
+    "url": "/static/media/screenshot-1.081ba5f8.png"
+  },
+  {
+    "revision": "5dadd85fbfa07426970e2ba13a052a27",
+    "url": "/static/media/screenshot-2.5dadd85f.png"
   },
   {
     "revision": "7cd7380ba55a7d4dc434a1288e75a8ca",
