@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb86434169339d9e0256ad55de1c91ed",
+    "revision": "ca990837299a4c21f0bce46f1048c85d",
     "url": "/index.html"
   },
   {
-    "revision": "718b5a36c0a683227c26",
-    "url": "/static/js/0.5a55b8ac.chunk.js"
+    "revision": "5954ff9ca1d215a232e2",
+    "url": "/static/js/0.cc449b78.chunk.js"
   },
   {
-    "revision": "da1958dc978556a0b906",
-    "url": "/static/js/1.f1c4abae.chunk.js"
+    "revision": "74bf5f5f66d484bae4f2",
+    "url": "/static/js/1.6e740876.chunk.js"
   },
   {
     "revision": "9074793ea3bb06f3cd17",
     "url": "/static/js/8.2f8990f3.chunk.js"
   },
   {
-    "revision": "8e4aab8633a5e1b903d6",
-    "url": "/static/js/About.7bac0eb9.chunk.js"
+    "revision": "6e1d784f7a592878baf0",
+    "url": "/static/js/About.2be46274.chunk.js"
   },
   {
-    "revision": "85a1d14b9a7b86449997",
-    "url": "/static/js/Home.8ea9373a.chunk.js"
+    "revision": "1408d1eb010ad5295216",
+    "url": "/static/js/Home.8ac8ee2c.chunk.js"
   },
   {
-    "revision": "9c9baf10b265fb7cb931",
-    "url": "/static/js/NotFound.227f336b.chunk.js"
+    "revision": "fefa3929dad1eb90e878",
+    "url": "/static/js/NotFound.11999c3d.chunk.js"
   },
   {
-    "revision": "234e08485cb9f3130733",
-    "url": "/static/js/ProjectDetails.c5373300.chunk.js"
+    "revision": "c0f0a635630a3371d2ac",
+    "url": "/static/js/ProjectDetails.ffbd6efa.chunk.js"
   },
   {
-    "revision": "1a7a17dccc2d4bf7f4be",
-    "url": "/static/js/main.345df98c.chunk.js"
+    "revision": "ed2167a08af0091c286c",
+    "url": "/static/js/main.eb70b2ce.chunk.js"
   },
   {
-    "revision": "c7319edd566579c0e378",
-    "url": "/static/js/runtime~main.8d4c41a0.js"
+    "revision": "465278393ef4cf8debbb",
+    "url": "/static/js/runtime~main.9644cfbc.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -202,5 +202,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b12dbf658c0340f856f3a3b393758501",
     "url": "/static/media/whatsapp-link-builder-thumbnail.b12dbf65.png"
+  },
+  {
+    "revision": "c6d746be6743e055e98a68829a2d530a",
+    "url": "/static/media/wuhan-pneumonia-home.c6d746be.png"
+  },
+  {
+    "revision": "46ff75a7c2333e86ffe921dff08f9664",
+    "url": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
   }
 ]);

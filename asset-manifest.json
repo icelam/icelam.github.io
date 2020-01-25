@@ -1,16 +1,16 @@
 {
   "files": {
-    "static/js/0.5a55b8ac.chunk.js": "/static/js/0.5a55b8ac.chunk.js",
-    "static/js/1.f1c4abae.chunk.js": "/static/js/1.f1c4abae.chunk.js",
-    "About.js": "/static/js/About.7bac0eb9.chunk.js",
-    "Home.js": "/static/js/Home.8ea9373a.chunk.js",
-    "NotFound.js": "/static/js/NotFound.227f336b.chunk.js",
-    "ProjectDetails.js": "/static/js/ProjectDetails.c5373300.chunk.js",
-    "main.js": "/static/js/main.345df98c.chunk.js",
-    "runtime~main.js": "/static/js/runtime~main.8d4c41a0.js",
+    "static/js/0.cc449b78.chunk.js": "/static/js/0.cc449b78.chunk.js",
+    "static/js/1.6e740876.chunk.js": "/static/js/1.6e740876.chunk.js",
+    "About.js": "/static/js/About.2be46274.chunk.js",
+    "Home.js": "/static/js/Home.8ac8ee2c.chunk.js",
+    "NotFound.js": "/static/js/NotFound.11999c3d.chunk.js",
+    "ProjectDetails.js": "/static/js/ProjectDetails.ffbd6efa.chunk.js",
+    "main.js": "/static/js/main.eb70b2ce.chunk.js",
+    "runtime~main.js": "/static/js/runtime~main.9644cfbc.js",
     "static/js/8.2f8990f3.chunk.js": "/static/js/8.2f8990f3.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.abbeeebe65fd978f6afe8041cae462c5.js": "/precache-manifest.abbeeebe65fd978f6afe8041cae462c5.js",
+    "precache-manifest.0535857cdca6cbb4a331ccfd4ae46390.js": "/precache-manifest.0535857cdca6cbb4a331ccfd4ae46390.js",
     "service-worker.js": "/service-worker.js",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
     "static/media/Zpix.ttf": "/static/media/Zpix.783bb457.ttf",
@@ -52,6 +52,8 @@
     "static/media/website-icon.svg": "/static/media/website-icon.b30620f7.svg",
     "static/media/whatsapp-link-builder-home.png": "/static/media/whatsapp-link-builder-home.3944c0e8.png",
     "static/media/whatsapp-link-builder-result.png": "/static/media/whatsapp-link-builder-result.8b42b021.png",
-    "static/media/whatsapp-link-builder-thumbnail.png": "/static/media/whatsapp-link-builder-thumbnail.b12dbf65.png"
+    "static/media/whatsapp-link-builder-thumbnail.png": "/static/media/whatsapp-link-builder-thumbnail.b12dbf65.png",
+    "static/media/wuhan-pneumonia-home.png": "/static/media/wuhan-pneumonia-home.c6d746be.png",
+    "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
   }
 }
