@@ -1,16 +1,16 @@
 {
   "files": {
-    "static/js/0.fc4fd348.chunk.js": "/static/js/0.fc4fd348.chunk.js",
+    "static/js/0.dac2e02f.chunk.js": "/static/js/0.dac2e02f.chunk.js",
     "static/js/1.6e740876.chunk.js": "/static/js/1.6e740876.chunk.js",
     "About.js": "/static/js/About.0097a4e7.chunk.js",
     "Home.js": "/static/js/Home.8ac8ee2c.chunk.js",
     "NotFound.js": "/static/js/NotFound.11999c3d.chunk.js",
     "ProjectDetails.js": "/static/js/ProjectDetails.ffbd6efa.chunk.js",
     "main.js": "/static/js/main.eb70b2ce.chunk.js",
-    "runtime~main.js": "/static/js/runtime~main.43819f9f.js",
+    "runtime~main.js": "/static/js/runtime~main.1ac68c82.js",
     "static/js/8.2f8990f3.chunk.js": "/static/js/8.2f8990f3.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.ac69d80ffca83667664dbf164de1e852.js": "/precache-manifest.ac69d80ffca83667664dbf164de1e852.js",
+    "precache-manifest.71e71f35c5b6a6d90e7d30b779912a51.js": "/precache-manifest.71e71f35c5b6a6d90e7d30b779912a51.js",
     "service-worker.js": "/service-worker.js",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
     "static/media/Zpix.ttf": "/static/media/Zpix.783bb457.ttf",
@@ -53,7 +53,7 @@
     "static/media/whatsapp-link-builder-home.png": "/static/media/whatsapp-link-builder-home.3944c0e8.png",
     "static/media/whatsapp-link-builder-result.png": "/static/media/whatsapp-link-builder-result.8b42b021.png",
     "static/media/whatsapp-link-builder-thumbnail.png": "/static/media/whatsapp-link-builder-thumbnail.b12dbf65.png",
-    "static/media/wuhan-pneumonia-home.png": "/static/media/wuhan-pneumonia-home.e136100a.png",
+    "static/media/wuhan-pneumonia-home.png": "/static/media/wuhan-pneumonia-home.c2b674ac.png",
     "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
   }
 }
