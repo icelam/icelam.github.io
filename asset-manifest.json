@@ -1,17 +1,18 @@
 {
   "files": {
-    "static/js/0.b9409590.chunk.js": "/static/js/0.b9409590.chunk.js",
-    "static/js/1.078a87fb.chunk.js": "/static/js/1.078a87fb.chunk.js",
-    "About.js": "/static/js/About.d3384510.chunk.js",
-    "Home.js": "/static/js/Home.56f2aaae.chunk.js",
-    "NotFound.js": "/static/js/NotFound.b4590c7c.chunk.js",
-    "ProjectDetails.js": "/static/js/ProjectDetails.9d4e422d.chunk.js",
-    "main.js": "/static/js/main.6dcbb7fe.chunk.js",
-    "runtime~main.js": "/static/js/runtime~main.0ba30c6a.js",
-    "static/js/8.85aee21f.chunk.js": "/static/js/8.85aee21f.chunk.js",
+    "static/js/0.76792a98.chunk.js": "/static/js/0.76792a98.chunk.js",
+    "static/js/1.be42d9d4.chunk.js": "/static/js/1.be42d9d4.chunk.js",
+    "About.js": "/static/js/About.7364f7e8.chunk.js",
+    "Home.js": "/static/js/Home.d207a983.chunk.js",
+    "NotFound.js": "/static/js/NotFound.d01fffd2.chunk.js",
+    "ProjectDetails.js": "/static/js/ProjectDetails.ea2cc625.chunk.js",
+    "main.js": "/static/js/main.212964d2.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.728f08fd.js",
+    "static/js/8.8d9e0858.chunk.js": "/static/js/8.8d9e0858.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.da06a0673d5d0984514c7fa51d4e61a5.js": "/precache-manifest.da06a0673d5d0984514c7fa51d4e61a5.js",
+    "precache-manifest.9c5c79114280c5794eba78beb354f089.js": "/precache-manifest.9c5c79114280c5794eba78beb354f089.js",
     "service-worker.js": "/service-worker.js",
+    "static/js/8.8d9e0858.chunk.js.LICENSE.txt": "/static/js/8.8d9e0858.chunk.js.LICENSE.txt",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
     "static/media/Zpix.ttf": "/static/media/Zpix.783bb457.ttf",
     "static/media/anyone-bmi-calculator-home.png": "/static/media/anyone-bmi-calculator-home.f0799743.png",
@@ -63,5 +64,10 @@
     "static/media/whatsapp-link-builder-thumbnail.png": "/static/media/whatsapp-link-builder-thumbnail.b12dbf65.png",
     "static/media/wuhan-pneumonia-home.png": "/static/media/wuhan-pneumonia-home.c2b674ac.png",
     "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.728f08fd.js",
+    "static/js/8.8d9e0858.chunk.js",
+    "static/js/main.212964d2.chunk.js"
+  ]
 }
