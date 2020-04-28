@@ -1,16 +1,16 @@
 {
   "files": {
-    "static/js/0.76792a98.chunk.js": "/static/js/0.76792a98.chunk.js",
-    "static/js/1.be42d9d4.chunk.js": "/static/js/1.be42d9d4.chunk.js",
-    "About.js": "/static/js/About.7364f7e8.chunk.js",
-    "Home.js": "/static/js/Home.d207a983.chunk.js",
-    "NotFound.js": "/static/js/NotFound.d01fffd2.chunk.js",
-    "ProjectDetails.js": "/static/js/ProjectDetails.ea2cc625.chunk.js",
-    "main.js": "/static/js/main.212964d2.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.728f08fd.js",
+    "static/js/0.1a95ffd3.chunk.js": "/static/js/0.1a95ffd3.chunk.js",
+    "static/js/1.cb11ef13.chunk.js": "/static/js/1.cb11ef13.chunk.js",
+    "About.js": "/static/js/About.111ad54c.chunk.js",
+    "Home.js": "/static/js/Home.b4673c04.chunk.js",
+    "NotFound.js": "/static/js/NotFound.c074bd73.chunk.js",
+    "ProjectDetails.js": "/static/js/ProjectDetails.b9b18431.chunk.js",
+    "main.js": "/static/js/main.236f465b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.e2114d8c.js",
     "static/js/8.8d9e0858.chunk.js": "/static/js/8.8d9e0858.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.9c5c79114280c5794eba78beb354f089.js": "/precache-manifest.9c5c79114280c5794eba78beb354f089.js",
+    "precache-manifest.0443442fd7fb2d5b691475963f947632.js": "/precache-manifest.0443442fd7fb2d5b691475963f947632.js",
     "service-worker.js": "/service-worker.js",
     "static/js/8.8d9e0858.chunk.js.LICENSE.txt": "/static/js/8.8d9e0858.chunk.js.LICENSE.txt",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
@@ -35,6 +35,8 @@
     "static/media/code-copier-screenshot-1.png": "/static/media/code-copier-screenshot-1.081ba5f8.png",
     "static/media/code-copier-screenshot-2.png": "/static/media/code-copier-screenshot-2.5dadd85f.png",
     "static/media/code-copier-thumbnail.png": "/static/media/code-copier-thumbnail.52fc684e.png",
+    "static/media/covid-19-simulator-home.gif": "/static/media/covid-19-simulator-home.3b02ba78.gif",
+    "static/media/covid-19-simulator-thumbnail.png": "/static/media/covid-19-simulator-thumbnail.c27ce57f.png",
     "static/media/css3-gundam-home.png": "/static/media/css3-gundam-home.ff267f9b.png",
     "static/media/css3-gundam-thumbnail.png": "/static/media/css3-gundam-thumbnail.0de17612.png",
     "static/media/github-commit-heatmap-home.png": "/static/media/github-commit-heatmap-home.a35bd494.png",
@@ -66,8 +68,8 @@
     "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.728f08fd.js",
+    "static/js/runtime-main.e2114d8c.js",
     "static/js/8.8d9e0858.chunk.js",
-    "static/js/main.212964d2.chunk.js"
+    "static/js/main.236f465b.chunk.js"
   ]
 }
