@@ -2,15 +2,15 @@
   "files": {
     "static/js/0.1a95ffd3.chunk.js": "/static/js/0.1a95ffd3.chunk.js",
     "static/js/1.cb11ef13.chunk.js": "/static/js/1.cb11ef13.chunk.js",
-    "About.js": "/static/js/About.111ad54c.chunk.js",
+    "About.js": "/static/js/About.73965297.chunk.js",
     "Home.js": "/static/js/Home.b4673c04.chunk.js",
     "NotFound.js": "/static/js/NotFound.c074bd73.chunk.js",
     "ProjectDetails.js": "/static/js/ProjectDetails.b9b18431.chunk.js",
     "main.js": "/static/js/main.236f465b.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.e2114d8c.js",
+    "runtime-main.js": "/static/js/runtime-main.71409f97.js",
     "static/js/8.8d9e0858.chunk.js": "/static/js/8.8d9e0858.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.0443442fd7fb2d5b691475963f947632.js": "/precache-manifest.0443442fd7fb2d5b691475963f947632.js",
+    "precache-manifest.083e749fa29859eca21c4a8cc13174d1.js": "/precache-manifest.083e749fa29859eca21c4a8cc13174d1.js",
     "service-worker.js": "/service-worker.js",
     "static/js/8.8d9e0858.chunk.js.LICENSE.txt": "/static/js/8.8d9e0858.chunk.js.LICENSE.txt",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
@@ -68,7 +68,7 @@
     "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2114d8c.js",
+    "static/js/runtime-main.71409f97.js",
     "static/js/8.8d9e0858.chunk.js",
     "static/js/main.236f465b.chunk.js"
   ]
