@@ -1,16 +1,16 @@
 {
   "files": {
-    "static/js/0.099b6ed0.chunk.js": "/static/js/0.099b6ed0.chunk.js",
-    "static/js/1.3d70025b.chunk.js": "/static/js/1.3d70025b.chunk.js",
-    "About.js": "/static/js/About.07a95e3f.chunk.js",
-    "Home.js": "/static/js/Home.ea2ecf70.chunk.js",
-    "NotFound.js": "/static/js/NotFound.06f1dee1.chunk.js",
-    "ProjectDetails.js": "/static/js/ProjectDetails.e3ea8ae5.chunk.js",
-    "main.js": "/static/js/main.60f34414.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.e16f68e0.js",
+    "static/js/0.ac2c8765.chunk.js": "/static/js/0.ac2c8765.chunk.js",
+    "static/js/1.de78ce8d.chunk.js": "/static/js/1.de78ce8d.chunk.js",
+    "About.js": "/static/js/About.9083190f.chunk.js",
+    "Home.js": "/static/js/Home.cb5e4025.chunk.js",
+    "NotFound.js": "/static/js/NotFound.ade3be6c.chunk.js",
+    "ProjectDetails.js": "/static/js/ProjectDetails.a108bde3.chunk.js",
+    "main.js": "/static/js/main.66615847.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.6b1db666.js",
     "static/js/8.0f958567.chunk.js": "/static/js/8.0f958567.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.6acf201c69c307ed860b90574164ca5d.js": "/precache-manifest.6acf201c69c307ed860b90574164ca5d.js",
+    "precache-manifest.4e0e62655e4ee075e5e419e7da851df8.js": "/precache-manifest.4e0e62655e4ee075e5e419e7da851df8.js",
     "service-worker.js": "/service-worker.js",
     "static/js/8.0f958567.chunk.js.LICENSE.txt": "/static/js/8.0f958567.chunk.js.LICENSE.txt",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
@@ -39,6 +39,8 @@
     "static/media/covid-19-simulator-thumbnail.png": "/static/media/covid-19-simulator-thumbnail.c27ce57f.png",
     "static/media/css3-gundam-home.png": "/static/media/css3-gundam-home.ff267f9b.png",
     "static/media/css3-gundam-thumbnail.png": "/static/media/css3-gundam-thumbnail.0de17612.png",
+    "static/media/deno-wikipedia-cli-preview.png": "/static/media/deno-wikipedia-cli-preview.0f316f64.png",
+    "static/media/deno-wikipedia-cli-thumbnail.png": "/static/media/deno-wikipedia-cli-thumbnail.72a51915.png",
     "static/media/github-commit-heatmap-home.png": "/static/media/github-commit-heatmap-home.a35bd494.png",
     "static/media/github-commit-heatmap-thumbnail.png": "/static/media/github-commit-heatmap-thumbnail.f0441d79.png",
     "static/media/github-icon-dark-mode.svg": "/static/media/github-icon-dark-mode.04cfd1dc.svg",
@@ -71,8 +73,8 @@
     "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e16f68e0.js",
+    "static/js/runtime-main.6b1db666.js",
     "static/js/8.0f958567.chunk.js",
-    "static/js/main.60f34414.chunk.js"
+    "static/js/main.66615847.chunk.js"
   ]
 }

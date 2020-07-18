@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df207816ca3b12995504f974556eb520",
+    "revision": "1212e22ebfbe764fd18bd2fc0c8804b6",
     "url": "/index.html"
   },
   {
-    "revision": "15a8f821576c8fba34b3",
-    "url": "/static/js/0.099b6ed0.chunk.js"
+    "revision": "1fbbe7468c2360fe334b",
+    "url": "/static/js/0.ac2c8765.chunk.js"
   },
   {
-    "revision": "001b9edc5f9b30f9cf28",
-    "url": "/static/js/1.3d70025b.chunk.js"
+    "revision": "235032fd416dbf839828",
+    "url": "/static/js/1.de78ce8d.chunk.js"
   },
   {
     "revision": "977b43d1d4a60136c4f2",
@@ -20,28 +20,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/8.0f958567.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53b890abf1ab29aa4dbd",
-    "url": "/static/js/About.07a95e3f.chunk.js"
+    "revision": "f1ab5e62d12933105075",
+    "url": "/static/js/About.9083190f.chunk.js"
   },
   {
-    "revision": "e43aaf34a7407b6624f6",
-    "url": "/static/js/Home.ea2ecf70.chunk.js"
+    "revision": "eb10d04ccf334baf8305",
+    "url": "/static/js/Home.cb5e4025.chunk.js"
   },
   {
-    "revision": "51bad74790c26c86909a",
-    "url": "/static/js/NotFound.06f1dee1.chunk.js"
+    "revision": "e3bdfd7638d68cc83d7c",
+    "url": "/static/js/NotFound.ade3be6c.chunk.js"
   },
   {
-    "revision": "43772659eb8391565c85",
-    "url": "/static/js/ProjectDetails.e3ea8ae5.chunk.js"
+    "revision": "77e308dd513a297098c7",
+    "url": "/static/js/ProjectDetails.a108bde3.chunk.js"
   },
   {
-    "revision": "0f214752034a3d4d8c9a",
-    "url": "/static/js/main.60f34414.chunk.js"
+    "revision": "f83c71cab5e5b336f8e0",
+    "url": "/static/js/main.66615847.chunk.js"
   },
   {
-    "revision": "ed0e3785500278e1c221",
-    "url": "/static/js/runtime-main.e16f68e0.js"
+    "revision": "fa47040e7c3b0fce427b",
+    "url": "/static/js/runtime-main.6b1db666.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -146,6 +146,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0de1761215cb200929df702a89778d7f",
     "url": "/static/media/css3-gundam-thumbnail.0de17612.png"
+  },
+  {
+    "revision": "0f316f640e08060daa54b0117ba9d229",
+    "url": "/static/media/deno-wikipedia-cli-preview.0f316f64.png"
+  },
+  {
+    "revision": "72a51915931722bc6a8c2db18a1732da",
+    "url": "/static/media/deno-wikipedia-cli-thumbnail.72a51915.png"
   },
   {
     "revision": "a35bd494cbbf205576c816163ec38ed8",
