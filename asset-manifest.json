@@ -1,18 +1,18 @@
 {
   "files": {
-    "static/js/0.ac2c8765.chunk.js": "/static/js/0.ac2c8765.chunk.js",
-    "static/js/1.de78ce8d.chunk.js": "/static/js/1.de78ce8d.chunk.js",
-    "About.js": "/static/js/About.9083190f.chunk.js",
-    "Home.js": "/static/js/Home.cb5e4025.chunk.js",
-    "NotFound.js": "/static/js/NotFound.ade3be6c.chunk.js",
-    "ProjectDetails.js": "/static/js/ProjectDetails.a108bde3.chunk.js",
-    "main.js": "/static/js/main.66615847.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.6b1db666.js",
-    "static/js/8.0f958567.chunk.js": "/static/js/8.0f958567.chunk.js",
+    "static/js/0.ef780b86.chunk.js": "/static/js/0.ef780b86.chunk.js",
+    "static/js/1.fc794bf9.chunk.js": "/static/js/1.fc794bf9.chunk.js",
+    "About.js": "/static/js/About.33be307e.chunk.js",
+    "Home.js": "/static/js/Home.1c40f321.chunk.js",
+    "NotFound.js": "/static/js/NotFound.bf28da39.chunk.js",
+    "ProjectDetails.js": "/static/js/ProjectDetails.e653d649.chunk.js",
+    "main.js": "/static/js/main.81857bd4.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.d91f018c.js",
+    "static/js/8.60453e9b.chunk.js": "/static/js/8.60453e9b.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.4e0e62655e4ee075e5e419e7da851df8.js": "/precache-manifest.4e0e62655e4ee075e5e419e7da851df8.js",
+    "precache-manifest.81f732a89d94027d11b250980a4fc259.js": "/precache-manifest.81f732a89d94027d11b250980a4fc259.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/8.0f958567.chunk.js.LICENSE.txt": "/static/js/8.0f958567.chunk.js.LICENSE.txt",
+    "static/js/8.60453e9b.chunk.js.LICENSE.txt": "/static/js/8.60453e9b.chunk.js.LICENSE.txt",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
     "static/media/Zpix.ttf": "/static/media/Zpix.783bb457.ttf",
     "static/media/anyone-bmi-calculator-home.png": "/static/media/anyone-bmi-calculator-home.f0799743.png",
@@ -39,6 +39,8 @@
     "static/media/covid-19-simulator-thumbnail.png": "/static/media/covid-19-simulator-thumbnail.c27ce57f.png",
     "static/media/css3-gundam-home.png": "/static/media/css3-gundam-home.ff267f9b.png",
     "static/media/css3-gundam-thumbnail.png": "/static/media/css3-gundam-thumbnail.0de17612.png",
+    "static/media/date-icon-dark-mode.svg": "/static/media/date-icon-dark-mode.ebc350ed.svg",
+    "static/media/date-icon.svg": "/static/media/date-icon.c5c6f264.svg",
     "static/media/deno-wikipedia-cli-preview.png": "/static/media/deno-wikipedia-cli-preview.0f316f64.png",
     "static/media/deno-wikipedia-cli-thumbnail.png": "/static/media/deno-wikipedia-cli-thumbnail.72a51915.png",
     "static/media/github-commit-heatmap-home.png": "/static/media/github-commit-heatmap-home.a35bd494.png",
@@ -73,8 +75,8 @@
     "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b1db666.js",
-    "static/js/8.0f958567.chunk.js",
-    "static/js/main.66615847.chunk.js"
+    "static/js/runtime-main.d91f018c.js",
+    "static/js/8.60453e9b.chunk.js",
+    "static/js/main.81857bd4.chunk.js"
   ]
 }
