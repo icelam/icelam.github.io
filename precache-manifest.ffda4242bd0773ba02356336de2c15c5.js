@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a55520119f10eb0ed0fb916052a9b1da",
+    "revision": "a7133293d07b7ba6cd73c4c93e034149",
     "url": "/index.html"
   },
   {
-    "revision": "cc9eecbbaf0b2d99dd29",
-    "url": "/static/js/0.ef780b86.chunk.js"
+    "revision": "1a0d51adbd081c70829d",
+    "url": "/static/js/0.25df7784.chunk.js"
   },
   {
     "revision": "9281ef188ae0b24ea714",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/main.81857bd4.chunk.js"
   },
   {
-    "revision": "05843d639a2fbd0a41b3",
-    "url": "/static/js/runtime-main.e80a118a.js"
+    "revision": "f886cce42316f9670298",
+    "url": "/static/js/runtime-main.81503003.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -164,12 +164,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/deno-wikipedia-cli-thumbnail.72a51915.png"
   },
   {
-    "revision": "a35bd494cbbf205576c816163ec38ed8",
-    "url": "/static/media/github-commit-heatmap-home.a35bd494.png"
+    "revision": "f0156d94cd3e0f60f88fd67173b14394",
+    "url": "/static/media/github-commit-heatmap-home.f0156d94.png"
   },
   {
-    "revision": "f0441d798b74e2ca7946e0c0bd9eac9d",
-    "url": "/static/media/github-commit-heatmap-thumbnail.f0441d79.png"
+    "revision": "27d42aa2a046959cf8a6b8b66bc892d2",
+    "url": "/static/media/github-commit-heatmap-thumbnail.27d42aa2.png"
   },
   {
     "revision": "04cfd1dc4dc43442782529b73e3572bf",
