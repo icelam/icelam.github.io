@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7133293d07b7ba6cd73c4c93e034149",
+    "revision": "2e7fdcbc018c6d41b587ec26ba9a3168",
     "url": "/index.html"
   },
   {
-    "revision": "1a0d51adbd081c70829d",
-    "url": "/static/js/0.25df7784.chunk.js"
+    "revision": "cc163525f49f9f9daffb",
+    "url": "/static/js/0.d6b509e8.chunk.js"
   },
   {
     "revision": "9281ef188ae0b24ea714",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/main.81857bd4.chunk.js"
   },
   {
-    "revision": "f886cce42316f9670298",
-    "url": "/static/js/runtime-main.81503003.js"
+    "revision": "32d3961231afb03b5216",
+    "url": "/static/js/runtime-main.0a88950b.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -156,8 +156,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/date-icon.c5c6f264.svg"
   },
   {
-    "revision": "0f316f640e08060daa54b0117ba9d229",
-    "url": "/static/media/deno-wikipedia-cli-preview.0f316f64.png"
+    "revision": "982204a83035dc9d19154d81cb3dc3a8",
+    "url": "/static/media/deno-wikipedia-cli-preview.982204a8.png"
   },
   {
     "revision": "72a51915931722bc6a8c2db18a1732da",
