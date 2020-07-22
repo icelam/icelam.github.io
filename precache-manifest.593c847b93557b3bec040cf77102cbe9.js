@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e7fdcbc018c6d41b587ec26ba9a3168",
+    "revision": "9dd12dc125ee20996391de5bdf550e00",
     "url": "/index.html"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/ProjectDetails.e653d649.chunk.js"
   },
   {
-    "revision": "60d1275da489c974d153",
-    "url": "/static/js/main.81857bd4.chunk.js"
+    "revision": "56e50a8e038b04a3dbf3",
+    "url": "/static/js/main.085c1dea.chunk.js"
   },
   {
     "revision": "32d3961231afb03b5216",
@@ -148,12 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/css3-gundam-thumbnail.0de17612.png"
   },
   {
-    "revision": "ebc350edcffc6940f8367a66890cae48",
-    "url": "/static/media/date-icon-dark-mode.ebc350ed.svg"
+    "revision": "d00d7612cdac5611a39df9308cec659b",
+    "url": "/static/media/date-icon-dark-mode.d00d7612.svg"
   },
   {
-    "revision": "c5c6f264e533dfcd7cc4dc457368c201",
-    "url": "/static/media/date-icon.c5c6f264.svg"
+    "revision": "f6cac01b0932cb0c3b643e5a7fa75833",
+    "url": "/static/media/date-icon.f6cac01b.svg"
   },
   {
     "revision": "982204a83035dc9d19154d81cb3dc3a8",
