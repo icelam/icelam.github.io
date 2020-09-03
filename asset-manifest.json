@@ -1,16 +1,16 @@
 {
   "files": {
-    "static/js/0.d6b509e8.chunk.js": "/static/js/0.d6b509e8.chunk.js",
-    "static/js/1.fc794bf9.chunk.js": "/static/js/1.fc794bf9.chunk.js",
-    "About.js": "/static/js/About.7baf6b96.chunk.js",
-    "Home.js": "/static/js/Home.1c40f321.chunk.js",
-    "NotFound.js": "/static/js/NotFound.bf28da39.chunk.js",
-    "ProjectDetails.js": "/static/js/ProjectDetails.e653d649.chunk.js",
-    "main.js": "/static/js/main.085c1dea.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.0a88950b.js",
+    "static/js/0.bd69d479.chunk.js": "/static/js/0.bd69d479.chunk.js",
+    "static/js/1.e9abb85a.chunk.js": "/static/js/1.e9abb85a.chunk.js",
+    "About.js": "/static/js/About.205f88cf.chunk.js",
+    "Home.js": "/static/js/Home.9247af9a.chunk.js",
+    "NotFound.js": "/static/js/NotFound.b9152e5c.chunk.js",
+    "ProjectDetails.js": "/static/js/ProjectDetails.270d3ec6.chunk.js",
+    "main.js": "/static/js/main.a797592b.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.2b753155.js",
     "static/js/8.60453e9b.chunk.js": "/static/js/8.60453e9b.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.593c847b93557b3bec040cf77102cbe9.js": "/precache-manifest.593c847b93557b3bec040cf77102cbe9.js",
+    "precache-manifest.0c4c6e5347e4ca7f55ad73199e9bce91.js": "/precache-manifest.0c4c6e5347e4ca7f55ad73199e9bce91.js",
     "service-worker.js": "/service-worker.js",
     "static/js/8.60453e9b.chunk.js.LICENSE.txt": "/static/js/8.60453e9b.chunk.js.LICENSE.txt",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
@@ -64,6 +64,12 @@
     "static/media/px2em-converter-home.png": "/static/media/px2em-converter-home.5be9f0e7.png",
     "static/media/px2em-converter-storybook.png": "/static/media/px2em-converter-storybook.d78a420d.png",
     "static/media/px2em-converter-thumbnail.png": "/static/media/px2em-converter-thumbnail.7eb1d525.png",
+    "static/media/tints-and-shades-feature1.png": "/static/media/tints-and-shades-feature1.1c65f6f4.png",
+    "static/media/tints-and-shades-feature2.png": "/static/media/tints-and-shades-feature2.0e105b08.png",
+    "static/media/tints-and-shades-feature3.png": "/static/media/tints-and-shades-feature3.bc7f5b13.png",
+    "static/media/tints-and-shades-feature4.png": "/static/media/tints-and-shades-feature4.e4b7a162.png",
+    "static/media/tints-and-shades-feature5.png": "/static/media/tints-and-shades-feature5.1e1b5b1f.png",
+    "static/media/tints-and-shades-thumbnail.png": "/static/media/tints-and-shades-thumbnail.3b1a51d3.png",
     "static/media/top-icon-dark-mode.svg": "/static/media/top-icon-dark-mode.6233eac2.svg",
     "static/media/top-icon.svg": "/static/media/top-icon.7cd7380b.svg",
     "static/media/website-icon-dark-mode.svg": "/static/media/website-icon-dark-mode.891d1472.svg",
@@ -75,8 +81,8 @@
     "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a88950b.js",
+    "static/js/runtime-main.2b753155.js",
     "static/js/8.60453e9b.chunk.js",
-    "static/js/main.085c1dea.chunk.js"
+    "static/js/main.a797592b.chunk.js"
   ]
 }

@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9dd12dc125ee20996391de5bdf550e00",
+    "revision": "398dfd3ad107e54887280f295b432cb5",
     "url": "/index.html"
   },
   {
-    "revision": "cc163525f49f9f9daffb",
-    "url": "/static/js/0.d6b509e8.chunk.js"
+    "revision": "acb41bd067a2d318dad5",
+    "url": "/static/js/0.bd69d479.chunk.js"
   },
   {
-    "revision": "9281ef188ae0b24ea714",
-    "url": "/static/js/1.fc794bf9.chunk.js"
+    "revision": "02f45e5889b1ec5970c9",
+    "url": "/static/js/1.e9abb85a.chunk.js"
   },
   {
     "revision": "ea40bf2a8e8e9b8f6960",
@@ -20,28 +20,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/8.60453e9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83b453646f6ba9470493",
-    "url": "/static/js/About.7baf6b96.chunk.js"
+    "revision": "3869c592938c681ad345",
+    "url": "/static/js/About.205f88cf.chunk.js"
   },
   {
-    "revision": "84bd3dbac55517a85426",
-    "url": "/static/js/Home.1c40f321.chunk.js"
+    "revision": "407f264d68e68ab9f6ae",
+    "url": "/static/js/Home.9247af9a.chunk.js"
   },
   {
-    "revision": "f12f4b0dd91862786363",
-    "url": "/static/js/NotFound.bf28da39.chunk.js"
+    "revision": "84e64ba5f0f8dfe86c5a",
+    "url": "/static/js/NotFound.b9152e5c.chunk.js"
   },
   {
-    "revision": "b96377858716c2741732",
-    "url": "/static/js/ProjectDetails.e653d649.chunk.js"
+    "revision": "b18a508b5f10ce8947fb",
+    "url": "/static/js/ProjectDetails.270d3ec6.chunk.js"
   },
   {
-    "revision": "56e50a8e038b04a3dbf3",
-    "url": "/static/js/main.085c1dea.chunk.js"
+    "revision": "c05591762c0f57d00b08",
+    "url": "/static/js/main.a797592b.chunk.js"
   },
   {
-    "revision": "32d3961231afb03b5216",
-    "url": "/static/js/runtime-main.0a88950b.js"
+    "revision": "4015fbb2d4dbab39d34c",
+    "url": "/static/js/runtime-main.2b753155.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -246,6 +246,30 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7eb1d5259ece070d85492559a22496c9",
     "url": "/static/media/px2em-converter-thumbnail.7eb1d525.png"
+  },
+  {
+    "revision": "1c65f6f4cf2de7fc48c08d53ac6944b3",
+    "url": "/static/media/tints-and-shades-feature1.1c65f6f4.png"
+  },
+  {
+    "revision": "0e105b08f5fddbe51596fbc17a69c13a",
+    "url": "/static/media/tints-and-shades-feature2.0e105b08.png"
+  },
+  {
+    "revision": "bc7f5b1395986cb946c49705fe1a9c71",
+    "url": "/static/media/tints-and-shades-feature3.bc7f5b13.png"
+  },
+  {
+    "revision": "e4b7a162a7b30bfc1579206f93f4323a",
+    "url": "/static/media/tints-and-shades-feature4.e4b7a162.png"
+  },
+  {
+    "revision": "1e1b5b1f1874cd3f576f5142d02b9ab6",
+    "url": "/static/media/tints-and-shades-feature5.1e1b5b1f.png"
+  },
+  {
+    "revision": "3b1a51d32b78385a9575184c6b6adc5d",
+    "url": "/static/media/tints-and-shades-thumbnail.3b1a51d3.png"
   },
   {
     "revision": "6233eac22442cc55e318e0691a5b3c35",
