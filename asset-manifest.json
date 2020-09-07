@@ -5,12 +5,12 @@
     "About.js": "/static/js/About.205f88cf.chunk.js",
     "Home.js": "/static/js/Home.9247af9a.chunk.js",
     "NotFound.js": "/static/js/NotFound.b9152e5c.chunk.js",
-    "ProjectDetails.js": "/static/js/ProjectDetails.270d3ec6.chunk.js",
+    "ProjectDetails.js": "/static/js/ProjectDetails.26be8e66.chunk.js",
     "main.js": "/static/js/main.a797592b.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.2b753155.js",
+    "runtime-main.js": "/static/js/runtime-main.923b7f08.js",
     "static/js/8.60453e9b.chunk.js": "/static/js/8.60453e9b.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.0c4c6e5347e4ca7f55ad73199e9bce91.js": "/precache-manifest.0c4c6e5347e4ca7f55ad73199e9bce91.js",
+    "precache-manifest.68a09e42ad8ef271dd7f2d36cbc9a044.js": "/precache-manifest.68a09e42ad8ef271dd7f2d36cbc9a044.js",
     "service-worker.js": "/service-worker.js",
     "static/js/8.60453e9b.chunk.js.LICENSE.txt": "/static/js/8.60453e9b.chunk.js.LICENSE.txt",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
@@ -81,7 +81,7 @@
     "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b753155.js",
+    "static/js/runtime-main.923b7f08.js",
     "static/js/8.60453e9b.chunk.js",
     "static/js/main.a797592b.chunk.js"
   ]
