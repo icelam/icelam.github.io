@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ac3394fb06e33da90b0f3852113fa7d",
+    "revision": "602688c323c1069c8f0812c942628d0c",
     "url": "/index.html"
   },
   {
-    "revision": "60b849b0ad323a575511",
-    "url": "/static/js/0.b2fbbc70.chunk.js"
+    "revision": "c30526150bfd4e9a6627",
+    "url": "/static/js/0.8577c747.chunk.js"
   },
   {
     "revision": "02f45e5889b1ec5970c9",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/main.a797592b.chunk.js"
   },
   {
-    "revision": "62defd51aa9b3a63324d",
-    "url": "/static/js/runtime-main.6427a7b3.js"
+    "revision": "0caf22bae820a12f39f7",
+    "url": "/static/js/runtime-main.99ecec73.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -188,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/github-repo-list-thumbnail.7e910b6c.png"
   },
   {
-    "revision": "487dfc8967942e48d6a69ecef70f4b1e",
-    "url": "/static/media/hk-top-news-home.487dfc89.jpg"
+    "revision": "ee1ede7e2f9061c0f8b05f6ee28e186b",
+    "url": "/static/media/hk-top-news-home.ee1ede7e.jpg"
   },
   {
     "revision": "0b1568c402840a8e19a7b3e0dd7460e0",
