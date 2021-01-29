@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "602688c323c1069c8f0812c942628d0c",
+    "revision": "d2b898f8c30e9325d56b1cd1d0ad7b40",
     "url": "/index.html"
   },
   {
-    "revision": "c30526150bfd4e9a6627",
-    "url": "/static/js/0.8577c747.chunk.js"
+    "revision": "08812abf7a311812fd2a",
+    "url": "/static/js/0.53c31933.chunk.js"
   },
   {
     "revision": "02f45e5889b1ec5970c9",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/main.a797592b.chunk.js"
   },
   {
-    "revision": "0caf22bae820a12f39f7",
-    "url": "/static/js/runtime-main.99ecec73.js"
+    "revision": "e34c6a68fe7aef4cec89",
+    "url": "/static/js/runtime-main.9f930913.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -300,11 +300,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/whatsapp-link-builder-thumbnail.b12dbf65.png"
   },
   {
-    "revision": "c2b674acdbcb1bc3c24392f699a05070",
-    "url": "/static/media/wuhan-pneumonia-home.c2b674ac.png"
+    "revision": "556763e0268f2d0ecf322136d37a1a68",
+    "url": "/static/media/wuhan-pneumonia-home.556763e0.png"
   },
   {
-    "revision": "46ff75a7c2333e86ffe921dff08f9664",
-    "url": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
+    "revision": "e4140f65a4ff29ec30c19e282c50b10c",
+    "url": "/static/media/wuhan-pneumonia-thumbnail.e4140f65.png"
   }
 ]);

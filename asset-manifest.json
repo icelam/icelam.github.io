@@ -1,16 +1,16 @@
 {
   "files": {
-    "static/js/0.8577c747.chunk.js": "/static/js/0.8577c747.chunk.js",
+    "static/js/0.53c31933.chunk.js": "/static/js/0.53c31933.chunk.js",
     "static/js/1.e9abb85a.chunk.js": "/static/js/1.e9abb85a.chunk.js",
     "About.js": "/static/js/About.205f88cf.chunk.js",
     "Home.js": "/static/js/Home.9247af9a.chunk.js",
     "NotFound.js": "/static/js/NotFound.b9152e5c.chunk.js",
     "ProjectDetails.js": "/static/js/ProjectDetails.26be8e66.chunk.js",
     "main.js": "/static/js/main.a797592b.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.99ecec73.js",
+    "runtime-main.js": "/static/js/runtime-main.9f930913.js",
     "static/js/8.60453e9b.chunk.js": "/static/js/8.60453e9b.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.aa3c53d063b3cfb948b82c684f0e1878.js": "/precache-manifest.aa3c53d063b3cfb948b82c684f0e1878.js",
+    "precache-manifest.334d8f88cb18cbfa6f590c81fc0e1e56.js": "/precache-manifest.334d8f88cb18cbfa6f590c81fc0e1e56.js",
     "service-worker.js": "/service-worker.js",
     "static/js/8.60453e9b.chunk.js.LICENSE.txt": "/static/js/8.60453e9b.chunk.js.LICENSE.txt",
     "static/media/Zpix.woff": "/static/media/Zpix.72fb54d5.woff",
@@ -77,11 +77,11 @@
     "static/media/whatsapp-link-builder-home.png": "/static/media/whatsapp-link-builder-home.a2e53489.png",
     "static/media/whatsapp-link-builder-result.png": "/static/media/whatsapp-link-builder-result.8b42b021.png",
     "static/media/whatsapp-link-builder-thumbnail.png": "/static/media/whatsapp-link-builder-thumbnail.b12dbf65.png",
-    "static/media/wuhan-pneumonia-home.png": "/static/media/wuhan-pneumonia-home.c2b674ac.png",
-    "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.46ff75a7.png"
+    "static/media/wuhan-pneumonia-home.png": "/static/media/wuhan-pneumonia-home.556763e0.png",
+    "static/media/wuhan-pneumonia-thumbnail.png": "/static/media/wuhan-pneumonia-thumbnail.e4140f65.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.99ecec73.js",
+    "static/js/runtime-main.9f930913.js",
     "static/js/8.60453e9b.chunk.js",
     "static/js/main.a797592b.chunk.js"
   ]
