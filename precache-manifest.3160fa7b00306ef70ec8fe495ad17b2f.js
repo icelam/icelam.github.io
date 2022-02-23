@@ -1,15 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75e4b9018dcd4c253b8210370116e58a",
+    "revision": "df2e344e92a32c604ee79ab64a943fd6",
     "url": "/index.html"
   },
   {
-    "revision": "5157664a55ca1f765fff",
-    "url": "/static/js/0.04647cd1.chunk.js"
+    "revision": "4f7cb87d7b936f64d87e",
+    "url": "/static/js/0.fa3c5894.chunk.js"
   },
   {
-    "revision": "26290195104e31692b1b",
-    "url": "/static/js/1.8a885471.chunk.js"
+    "revision": "5aee4648785b55afedd9",
+    "url": "/static/js/1.7b2615bd.chunk.js"
   },
   {
     "revision": "ea40bf2a8e8e9b8f6960",
@@ -20,28 +20,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/8.60453e9b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "160fc45184c6e4173e6c",
-    "url": "/static/js/About.22b34e2f.chunk.js"
+    "revision": "f13ff40ce28c1f08072e",
+    "url": "/static/js/About.28b661aa.chunk.js"
   },
   {
-    "revision": "36f6dd143cabea00ba5e",
-    "url": "/static/js/Home.b0f2dcb7.chunk.js"
+    "revision": "d9eb4949bd60fa6389c1",
+    "url": "/static/js/Home.fd2bcca9.chunk.js"
   },
   {
-    "revision": "49e36212b4b80440cc3b",
-    "url": "/static/js/NotFound.031646ee.chunk.js"
+    "revision": "6f798df69e4a206958d4",
+    "url": "/static/js/NotFound.0de25990.chunk.js"
   },
   {
-    "revision": "77c77b1c5ccffa95ef79",
-    "url": "/static/js/ProjectDetails.f259625e.chunk.js"
+    "revision": "a9f2c0fac070d424808c",
+    "url": "/static/js/ProjectDetails.f05d088c.chunk.js"
   },
   {
-    "revision": "4eea1d38d63812c78773",
-    "url": "/static/js/main.1a8ae32b.chunk.js"
+    "revision": "41026552a5a0085547c2",
+    "url": "/static/js/main.735b4715.chunk.js"
   },
   {
-    "revision": "a6859a681c6838886e26",
-    "url": "/static/js/runtime-main.3f79cf44.js"
+    "revision": "fba0898ac389fddbf0e0",
+    "url": "/static/js/runtime-main.0db1618d.js"
   },
   {
     "revision": "72fb54d5bea5e9f454626c4997d3acfe",
@@ -206,6 +206,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "201cd3187b1b9331b48b76c72a158192",
     "url": "/static/media/hkid-generator-validator.201cd318.png"
+  },
+  {
+    "revision": "32d61ba9ee689e9d9d3497ba6ca810aa",
+    "url": "/static/media/leetcode-daily-question-telegram-bot-mockup.32d61ba9.png"
+  },
+  {
+    "revision": "7b52173d96dfb949a67f953f56724f2e",
+    "url": "/static/media/leetcode-daily-question-telegram-bot-thumbnail.7b52173d.png"
   },
   {
     "revision": "51a386f3705783af89f093c41010aea3",
