@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: icelam.github.io
-Token: 3734674d503d88a420215041db4b8fc61fc4893a4983ad25894b62e7fc56f1b3
