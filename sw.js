@@ -16,9 +16,11 @@ workbox.setConfig({modulePathPrefix: "workbox-v4.3.1"});
 
 workbox.core.setCacheNameDetails({prefix: "gatsby-plugin-offline"});
 
-workbox.core.skipWaiting();
-
-workbox.core.clientsClaim();
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
+});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -65,11 +67,11 @@ self.__precacheManifest = [
     "url": "styles.b8954e6a1c9e5fb31559.css"
   },
   {
-    "url": "app-49ba5f48e5f020021ddc.js"
+    "url": "app-37b670bdffb30fa8bce1.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "38a25e5da991ce22a2f5823e074de70b"
+    "revision": "1a1d1b81b281432017010b5361adcb5e"
   },
   {
     "url": "polyfill-f10817517a7f20a6e1e4.js"
@@ -189,7 +191,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-49ba5f48e5f020021ddc.js`))) {
+  if (!resources || !(await caches.match(`/app-37b670bdffb30fa8bce1.js`))) {
     return await fetch(event.request)
   }
 
