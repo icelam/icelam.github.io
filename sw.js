@@ -59,7 +59,7 @@ self.__precacheManifest = [
     "revision": "8fd413ce27ba3bee3a73a00cda98b521"
   },
   {
-    "url": "framework-700468b27f888317b8c1.js"
+    "url": "framework-b8141fc224e2219ce457.js"
   },
   {
     "url": "styles.b8954e6a1c9e5fb31559.css"
@@ -69,7 +69,7 @@ self.__precacheManifest = [
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "a70aad431373417f0044a3d0264078c0"
+    "revision": "cc9e5be9568f439053a87352b9c8c179"
   },
   {
     "url": "polyfill-f10817517a7f20a6e1e4.js"
