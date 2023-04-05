@@ -28,54 +28,54 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "icons/icon-144x144.png",
-    "revision": "2e52ac742f2bddd34e82c08733409f55"
+    "revision": "21f13fe4b10857dd9f0d3731a2c282a3"
   },
   {
     "url": "icons/icon-192x192.png",
-    "revision": "5b908ec816f6598e1496a3b2570b6101"
+    "revision": "87609fc455a401b906feea0af4f17a54"
   },
   {
     "url": "icons/icon-256x256.png",
-    "revision": "d18af18a8ce93f8fe6c0aa524b307812"
+    "revision": "c41d8c0587756db9d854c940d3d375d9"
   },
   {
     "url": "icons/icon-384x384.png",
-    "revision": "038fdad1e5004471979f0a96ed78bc9f"
+    "revision": "d9c0d29e6a7c87c0f812921963a77426"
   },
   {
     "url": "icons/icon-48x48.png",
-    "revision": "f7339fbd9c38c3100c51e7feeac7a1f4"
+    "revision": "633eed21d16800b03a830495ae6e3461"
   },
   {
     "url": "icons/icon-512x512.png",
-    "revision": "20973ee04bd7d09489aabe29a213cf65"
+    "revision": "7f2804e5190ea1f4b86fac48c3974cb7"
   },
   {
     "url": "icons/icon-72x72.png",
-    "revision": "8f959ee3233c0142cba53fded456ecbb"
+    "revision": "bc753fd2f0c366451c50bf25d55d8261"
   },
   {
     "url": "icons/icon-96x96.png",
-    "revision": "8fd413ce27ba3bee3a73a00cda98b521"
+    "revision": "43edfd58f741e96b4141c6d20e41d494"
   },
   {
-    "url": "framework-b8141fc224e2219ce457.js"
+    "url": "framework-8068a67882198ba7fd4e.js"
   },
   {
     "url": "styles.729a16abb9299083c3da.css"
   },
   {
-    "url": "app-f676dc71c4adf323daf6.js"
+    "url": "app-78952a374d152f38787c.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "9eb4bb41a058790ecc6d96f921fc7c79"
+    "revision": "20b5334b29941b411dd8e6b99d41b85e"
   },
   {
-    "url": "polyfill-18ed9845c1f94c9e2d71.js"
+    "url": "webpack-runtime-9edf1fbfc4b4f261e7a8.js"
   },
   {
-    "url": "webpack-runtime-36ee4ed6146c0ad5f91d.js"
+    "url": "polyfill-40061c855a3ee0a7b556.js"
   },
   {
     "url": "manifest.webmanifest",
@@ -189,7 +189,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-f676dc71c4adf323daf6.js`))) {
+  if (!resources || !(await caches.match(`/app-78952a374d152f38787c.js`))) {
     return await fetch(event.request)
   }
 
